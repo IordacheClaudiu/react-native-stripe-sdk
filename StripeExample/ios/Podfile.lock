@@ -99,7 +99,7 @@ DEPENDENCIES:
   - React-jsi (from `../node_modules/react-native/ReactCommon/jsi`)
   - React-jsiexecutor (from `../node_modules/react-native/ReactCommon/jsiexecutor`)
   - React-jsinspector (from `../node_modules/react-native/ReactCommon/jsinspector`)
-  - react-native-stripe-sdk (from `../node_modules/react-native-stripe-sdk`)
+  - react-native-stripe-sdk (from `../../`)
   - React-RCTActionSheet (from `../node_modules/react-native/Libraries/ActionSheetIOS`)
   - React-RCTAnimation (from `../node_modules/react-native/Libraries/NativeAnimation`)
   - React-RCTBlob (from `../node_modules/react-native/Libraries/Blob`)
@@ -141,7 +141,7 @@ EXTERNAL SOURCES:
   React-jsinspector:
     :path: "../node_modules/react-native/ReactCommon/jsinspector"
   react-native-stripe-sdk:
-    :path: "../node_modules/react-native-stripe-sdk"
+    :path: "../../"
   React-RCTActionSheet:
     :path: "../node_modules/react-native/Libraries/ActionSheetIOS"
   React-RCTAnimation:
@@ -192,6 +192,6 @@ SPEC CHECKSUMS:
   Stripe: 2c4d0a88817361a102886315ff452d90f65e898b
   yoga: 843fe25849b56131275bf3e5da2c468e96f68aff
 
-PODFILE CHECKSUM: ba608be7665ac37a350069dea2ea7021b6427d1b
+PODFILE CHECKSUM: f1d47d34005447089d47c20437b1a6e011eb41bc
 
 COCOAPODS: 1.7.4
