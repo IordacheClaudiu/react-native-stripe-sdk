@@ -1,6 +1,7 @@
 
 {
   "name": "react-native-stripe-sdk",
+  "homepage": "https://github.com/IordacheClaudiu/react-native-stripe-sdk",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
