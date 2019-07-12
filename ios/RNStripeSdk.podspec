@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license        = package['license']
   s.author         = package['author']
   s.homepage       = package['homepage']
-  s.source         = { git: 'https://github.com/IordacheClaudiu/react-native-stripe-sdk', tag: s.version }
+  s.source         = { git: 'https://github.com/IordacheClaudiu/react-native-stripe-sdk' }
 
   s.requires_arc   = true
   s.platform       = :ios, '11.0'
