@@ -29,7 +29,7 @@ target 'StripeExample' do
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
   #Stripe SDK
-  pod 'Stripe', :podspec => '../node_modules/react-native-stripe-sdk'
+  pod 'Stripe', :path => '../node_modules/react-native-stripe-sdk'
 
   target 'StripeExampleTests' do
     inherit! :search_paths
