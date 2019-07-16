@@ -37,6 +37,7 @@ target 'StripeExample' do
   end
 
   use_native_modules!
+  use_modular_headers!
 end
 
 target 'StripeExample-tvOS' do

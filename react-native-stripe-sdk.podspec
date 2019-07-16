@@ -20,4 +20,6 @@ Pod::Spec.new do |s|
 
   s.dependency 'React'
   s.dependency 'Stripe'
+  s.dependency 'TesseractOCRiOS'
+
 end
