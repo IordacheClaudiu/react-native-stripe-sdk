@@ -59,7 +59,6 @@ PODS:
   - React-jsinspector (0.60.3)
   - react-native-stripe-sdk (1.0.0):
     - React
-    - Stripe
     - TesseractOCRiOS
   - React-RCTActionSheet (0.60.3):
     - React-Core (= 0.60.3)
@@ -85,7 +84,6 @@ PODS:
   - React-RCTWebSocket (0.60.3):
     - React-Core (= 0.60.3)
     - React-fishhook (= 0.60.3)
-  - Stripe (15.0.1)
   - TesseractOCRiOS (5.0.1)
   - yoga (0.60.3.React)
 
@@ -117,7 +115,6 @@ DEPENDENCIES:
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - boost-for-react-native
-    - Stripe
     - TesseractOCRiOS
 
 EXTERNAL SOURCES:
@@ -181,7 +178,7 @@ SPEC CHECKSUMS:
   React-jsi: c2b6e57836bcae2677a036384111dc2c58e94369
   React-jsiexecutor: d9023c5c199114d2b6f38ec861a4d923c73d0735
   React-jsinspector: 817b64f3c8a807f09d78620f4f505868d89b26f3
-  react-native-stripe-sdk: d383a09b523218152ca7240fccee55bf9fc3e666
+  react-native-stripe-sdk: 1dd37b374607bb1425ea0c06aee18b3a8e14ad08
   React-RCTActionSheet: 9c42321fd5652515d706dd722c5a10b1970d7ec8
   React-RCTAnimation: fabb087dde8964c9a835a7fabd0e7e5701787913
   React-RCTBlob: 93f34281d9c9c9e216b25824309eed9fe22a5d41
@@ -192,10 +189,9 @@ SPEC CHECKSUMS:
   React-RCTText: b026f8350c2cbe0daeb9880dd9c6e018fce0daf7
   React-RCTVibration: 5d9ed4a968e9d42880ddcc7c29bee3417c745408
   React-RCTWebSocket: 69d8565d66043f244b4129f3d7154c5689fb7d3e
-  Stripe: 2c4d0a88817361a102886315ff452d90f65e898b
   TesseractOCRiOS: 2c189465f86abb030d0c5141c90da9705b647854
   yoga: 843fe25849b56131275bf3e5da2c468e96f68aff
 
-PODFILE CHECKSUM: 77c4392983edba5cc69d04302fb1de7258478766
+PODFILE CHECKSUM: 7b888b91d9e763b407f03b065b1f424e26656cf5
 
 COCOAPODS: 1.7.4
